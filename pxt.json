@@ -1,5 +1,5 @@
 {
-    "name": "Estación meteorológica",
+    "name": "2.8 Estación meteorológica",
     "description": "",
     "dependencies": {
         "core": "*",
