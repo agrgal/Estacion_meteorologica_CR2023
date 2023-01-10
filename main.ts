@@ -3,7 +3,7 @@ radio.onReceivedNumber(function (receivedNumber) {
         TempOUT = "OUTSIDE" + input.temperature() + "ºC"
         radio.sendString(TempOUT)
         basic.showNumber(input.temperature())
-        basic.pause(1000)
+        basic.pause(2000)
         basic.clearScreen()
     }
 })
